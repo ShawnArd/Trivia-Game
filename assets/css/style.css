@@ -1,0 +1,37 @@
+body {
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 1007px;
+    font-size:30px;
+   
+}
+.container{
+    background-color: aliceblue;
+	margin-top: 100px;
+	text-align: center;
+    height: 500px;
+    width: 700px;
+    border: 10px solid red;
+    padding: 30px
+}
+
+.btn-primary,.reset{
+	background-color: #4098bb;
+	color: white;
+	font-size: 30px;
+	padding: 20px;
+	margin-top: 100px;
+}
+.btn-primary:hover, .reset:hover{
+	background-color: #4098bb;
+}
+
+.thisChoice:hover{
+	background-color: #4098bb64;
+	color: white;
+}
+
+#gif{
+    padding: 10px;
+    margin-top:10px;
+}
